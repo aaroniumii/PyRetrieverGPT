@@ -1,0 +1,5 @@
+openai==0.27.0
+langchain==0.1.0
+typer==0.4.0
+rich==10.12.0
+
