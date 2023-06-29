@@ -25,3 +25,5 @@ Rich: To format console output.
 Please refer to the requirements.txt file for a complete list of dependencies.
 
 Note: You need to set your OpenAI API Key in the credentials.py file for the application to run properly.
+
+Any improvement is welcome.
